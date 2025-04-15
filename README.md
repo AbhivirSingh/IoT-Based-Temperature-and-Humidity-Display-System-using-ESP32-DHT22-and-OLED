@@ -44,6 +44,7 @@ This project demonstrates a simple IoT system that monitors and displays tempera
 ```  
 📦ESP32-DHT22-OLED
  ┣ 📜 main.py
- ┣ 📷 esp32_dht22_oled_circuit.png
+ ┣ 📷 temperature_humidity_monitor_schematic.png
  ┗ 📘 README.md
+ ┗ 📝 LICENSE
 ```
